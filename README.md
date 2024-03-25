@@ -3,7 +3,7 @@
 
 - 🧬 I’m currently working on [ColdHosting](https://coldhosting.com)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Python**
 
 - 📫 How to reach me **sabaariiego@gmail.com**
 
