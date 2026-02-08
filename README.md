@@ -22,6 +22,4 @@ specialization: "Full Stack Developer"
 - 🗂️ **Other projects** - [Porfolio](https://sabaariiego.dev/) - More projects
 ---
 
-<div align="center">
 ![Profile Views](https://komarev.com/ghpvc/?username=sabaariiego&color=blue&style=flat-square&label=Profile+Views)
-</div>
