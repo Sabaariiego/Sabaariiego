@@ -19,7 +19,7 @@ specialization: "Full Stack Developer"
 ### Projects
 - 🛒 **NoiteBrand** - [Noitebrand SaaS](https://sabaariiego.dev/projects/noitebrand) - Advanced e-commerce platform
 - ⚔️ **FiveM Security Auditor** - [Security Auditor](https://fivem-auditor.sabaariiego.dev/) - Adavanced security tool
-- 🗂️ ** Other projects** - [Porfolio](https://sabaariiego.dev/) - More projects
+- 🗂️ **Other projects** - [Porfolio](https://sabaariiego.dev/) - More projects
 ---
 
 
