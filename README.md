@@ -7,14 +7,25 @@
 
 ---
 
+</div>
+
 ## 🚀 About Me
 
 ```yaml
 name: "Sabaariiego"
 location: "Spain"
-role: "Fullstack Developer"
+specialization: "Full Stack Developer"
 ```
+### Projects
+- 🛒 **NoiteBrand** - [Noitebrand SAAS](https://sabaariiego.dev/projects/noitebrand) - Advanced e-commerce platform
+- ⚔️ **FiveM Security Auditor** - [Security Auditor](https://fivem-auditor.sabaariiego.dev/) - Adavanced security tool
+- 🗂️ ** Other projects** - [Porfolio](https://sabaariiego.dev/) - More projects
+---
 
-- [Porfolio](https://sabaariiego.dev)
 
-- 📫 How to reach me **contacto@sabaariiego.dev**
+*"Building projects. Scaling ideas. Still just getting started."*
+
+![Profile Views](https://komarev.com/ghpvc/?username=sabaariiego&color=blue&style=flat-square&label=Profile+Views)
+
+</div>
+```
